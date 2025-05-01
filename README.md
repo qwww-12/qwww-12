@@ -1,29 +1,21 @@
-  <div align="center">
-<div id="header">
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXMybTZoZGd6amswZzl3a2x0cGM0eXYzanNwazc2emJzcnM4enVpOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11kEuHSQAXXiGQ/giphy.gif" width="150">
+<div align="center">
+  <div id="header">
+    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXMybTZoZGd6amswZzl3a2x0cGM0eXYzanNwazc2emJzcnM4enVpOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11kEuHSQAXXiGQ/giphy.gif" width="150">
+  </div>
+
+  <p>I am currently pursuing a B.Tech degree in Computer Science at Kalinga Institute of Industrial Technology.</p>
+  <p>I am a coding and web designing enthusiast, mainly working with the C programming language. My motto is to learn from every situation, grow as an individual, and always help others.</p>
+
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjVrZTYxc2g1M3M5dGh6bGcyM2tseGc0bzRydnFkc2ZnNjJwc3lwNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif" width="300">
+
+  <h3 id="bar_chart-github-stats">:bar_chart: GitHub Stats</h3>
+  <p>
+    <a href="https://github.com/qwww-12/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api?username=qwww-12&count_private=true&show_icons=true&theme=dark" alt="qwww-12's GitHub stats">
+    </a>
+  </p>
 </div>
-<div id="badges">
-<a href="https://www.linkedin.com/in/shaunak-chandra-6b3363215/">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn Badge">
-</a>
-<a href="https://www.instagram.com/shaunak_chandra/">
-  <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" alt="Youtube Badge">
-</a>
-<a href="mailto:aqchandra15@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&amp;logo=gmail&amp;logoColor=red" alt="Youtube Badge">
-</a>
-<a href="https://leetcode.com/aqchandra15/">
-  <img src="https://img.shields.io/badge/Leetcode-black?style=for-the-badge&amp;logo=leetcode&amp;logoColor=yellow" alt="Youtube Badge">
-</a>
-</div>
-<h3 id="hi-there">Hi there 👋🎉</h3>
-<p>My name is <strong>Shaunak Chandra</strong> and welcome to my profile.</p>
-<p>I am currently pursuing B.Tech degree in Computer Science in Kalinga Institute of Industrial Technology. Coding and Web Designing enthusiast looking for an opportunityto show my skills. My moto is to learn from any situation, grow as an individual and always help others.</p>
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjVrZTYxc2g1M3M5dGh6bGcyM2tseGc0bzRydnFkc2ZnNjJwc3lwNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif" width="300">
-<h3 id="bar_chart-github-stats">:bar_chart: GitHub stats</h3>
-<p><a href="https://github.com/Kingsky1t/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=Kingsky1t&amp;count_private=true&amp;show_icons=true&amp;theme=dark" alt="Shaunak's GitHub stats"></a></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kingsky1t&amp;show_icons=true&amp;theme=dark" alt="Top Languages Used"></p>
-</div>
+
 ------
-Credits:[Kingsky1t](https://github.com/Kingsky1t)
-Last Edited:05/04/23 
+Credits: [qwww-12](https://github.com/qwww-12)  
+Last Edited: 01/05/25
